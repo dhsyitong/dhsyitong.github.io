@@ -3,7 +3,7 @@ h1{
 
   font-family: verdana;
 
-  color:blue;
+  color:#ccffff;
 
 }
 
@@ -12,7 +12,7 @@ h1{
 
   font-family: verdana;
 
-  color:aqua;
+  color:#ccffff;
 
 }
 
@@ -26,6 +26,6 @@ p{
 
 body {
 
-    background-color: #33ccff;
+    background-color:aqua ;
 
 }
